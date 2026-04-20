@@ -1,5 +1,5 @@
 # 📋 Student Grievence Portal
-### A College Project | Built with Streamlit + Supabase + NLTK
+### Built with Streamlit + Supabase + NLTK
 
 ---
 
